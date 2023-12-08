@@ -5,9 +5,13 @@ This repository contains code for predicting insurance charges based on a datase
 **Key Features:**
 
 **Data Exploration:** Analyzing the dataset to understand the distribution of insurance charges based on various factors.
+
 **Data Preprocessing:** Handling missing values, label encoding categorical variables, and exploring correlations.
+
 **Model Building:** Implementing predictive models, including Linear Regression, Support Vector Regression (SVR), Decision Tree Regressor, and Random Forest Regressor.
+
 **Evaluation Metrics:** Calculating Mean Squared Error, Root Mean Squared Error, and R-squared Score for model evaluation.
+
 **Visualization:** Visualizing relationships between age, gender, smoking status, and insurance charges.
 
 **Steps to Reproduce:**
